@@ -1,0 +1,21 @@
+# Ignorar código fonte (já que enviamos a pasta dist)
+src/
+
+# Ignorar arquivos de configuração de desenvolvimento
+tsconfig.json
+tsup.config.ts
+.github/
+.vscode/
+
+# Ignorar arquivos de log e sistema
+npm-debug.log
+yarn-error.log
+.DS_Store
+
+# Ignorar testes e mocks
+tests/
+__tests__/
+
+# Ignorar arquivos de ambiente
+.env
+.env.local
