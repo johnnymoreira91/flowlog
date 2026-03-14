@@ -1,5 +1,5 @@
 {
-  "name": "@flexicorp/flowlog",
+  "name": "@johnnymoreira/flowlog",
   "version": "1.0.0",
   "description": "logger lib",
   "type": "module",
